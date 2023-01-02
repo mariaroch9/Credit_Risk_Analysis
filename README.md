@@ -17,6 +17,7 @@ Finally, I’ll compare two new machine learning models that reduce bias, Balanc
 
 
 '''
+<img width="1385" alt="RandomOverSampler" src="https://user-images.githubusercontent.com/111670866/210276256-105b7add-3ff5-4588-a34d-77919c87c574.png">
 
 '''
 
@@ -26,6 +27,7 @@ Finally, I’ll compare two new machine learning models that reduce bias, Balanc
 ## The precision and recall scores for the high_risk category are 0.01, 0.61 whereas the precision and recall scores for the low_risk are 1.00, 0.64
 
 '''
+<img width="1385" alt="SMOTE" src="https://user-images.githubusercontent.com/111670866/210276268-f950de3b-6e87-40d6-ba6f-970c6dbc9f60.png">
 
 '''
 
@@ -35,6 +37,7 @@ Finally, I’ll compare two new machine learning models that reduce bias, Balanc
 ## The precision and recall scores for the high_risk category are 0.01, 0.60 whereas the precision and recall scores for the low_risk are 1.00, 0.44
 
 '''
+<img width="1385" alt="ClusterCentroids" src="https://user-images.githubusercontent.com/111670866/210276282-56c0b2d8-ac72-4d3e-b59e-28cee07c2b1a.png">
 
 
 '''
@@ -45,6 +48,8 @@ Finally, I’ll compare two new machine learning models that reduce bias, Balanc
 ## The precision and recall scores for the high_risk category are 0.01, 0.70 whereas the precision and recall scores for the low_risk are 1.00, 0.58
 
 '''
+<img width="1385" alt="SMOTEENN" src="https://user-images.githubusercontent.com/111670866/210276321-b1e1bf9f-3c19-4ec1-bfd9-a9eec4ddf9ff.png">
+
 
 '''
 
@@ -54,6 +59,7 @@ Finally, I’ll compare two new machine learning models that reduce bias, Balanc
 ## The precision and recall scores for the high_risk category are 0.04, 0.67 whereas the precision and recall scores for the low_risk are 1.00, 0.91
 
 '''
+<img width="1385" alt="BalancedRandomForestClassifier" src="https://user-images.githubusercontent.com/111670866/210276336-f842a83a-ec5b-444d-aa86-3c1b7979eaa5.png">
 
 '''
 
@@ -63,6 +69,7 @@ Finally, I’ll compare two new machine learning models that reduce bias, Balanc
 ## The precision and recall scores for the high_risk category are 0.07, 0.91 whereas the precision and recall scores for the low_risk are 1.00, 0.94
 
 '''
+<img width="1385" alt="EasyEnsembleClassifier" src="https://user-images.githubusercontent.com/111670866/210276344-87cb73c8-2c08-422b-9fe8-e2a0ff9d221e.png">
 
 
 '''
